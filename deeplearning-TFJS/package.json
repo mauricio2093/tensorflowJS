@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "~3.19.0",
+    "jimp": "~0.16.1"
+  }
 }
