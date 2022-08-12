@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tensorflow/tfjs-node": "~3.19.0",
+    "@tensorflow/tfjs-node": "~3.19.0", 
     "jimp": "~0.16.1"
   }
 }

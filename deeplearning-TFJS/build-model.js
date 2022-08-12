@@ -7,7 +7,7 @@ const testDataUrl = 'file://./fashion-mnist/fashion-mnist_test.csv';
 
 // mapping of Fashion-MNIST labels (i.e., T-shirt=0, Trouser=1, etc.)
 const labels = [
-  'T-shirt/top',
+  'T-shirt/top', 
   'Trouser',
   'Pullover',
   'Dress',

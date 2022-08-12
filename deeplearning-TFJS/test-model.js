@@ -3,8 +3,8 @@ const Jimp = require('jimp');
 
 // mapping of Fashion-MNIST labels
 const labels = [
-  'T-shirt/top',
-  'Trouser',
+  'T-shirt/top', 
+  'Trouser', 
   'Pullover',
   'Dress',
   'Coat',
