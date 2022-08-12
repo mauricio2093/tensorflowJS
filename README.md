@@ -1,4 +1,3 @@
 # tensorflowJS
-Using tensorflow.js IBM tutorial
-JavaScript
+Using tensorflow.js IBM tutorial JavaScript
  
