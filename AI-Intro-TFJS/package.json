@@ -12,6 +12,6 @@
   "dependencies": {
     "@tensorflow-models/coco-ssd": "~2.2.2",
     "@tensorflow/tfjs-node": "~3.19.0",
-    "jimp": "~0.16.1"
+    "jimp": "~0.16.1" 
   }
 }
