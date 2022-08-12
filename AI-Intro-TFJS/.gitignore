@@ -1,1 +1,6 @@
 node_modules
+<<<<<<< HEAD:AI-Intro-TFJS/.gitignore
+=======
+*.csv
+
+>>>>>>> IA-deep:deeplearning-TFJS/.gitignore
