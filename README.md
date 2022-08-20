@@ -1,3 +1,3 @@
 # tensorflowJS
-Using tensorflow.js IBM tutorial JavaScript for I.A
+Using tensorflow.js IBM tutorial JavaScript for A.I
  
